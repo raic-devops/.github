@@ -1,4 +1,4 @@
-## Hi there 👋
+## Templae workflow with a common area for conribution guidelines, release management and brnach protection. 👋
 
 <!--
 
