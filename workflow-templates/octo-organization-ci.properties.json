@@ -2,9 +2,6 @@
     "name": "Octo Organization Workflow",
     "description": "Octo Organization CI workflow template.",
     "iconName": "example-icon",
-    "categories": [
-        "JavaScript"
-    ],
     "filePatterns": [
         "package.json$",
         "*.js",
